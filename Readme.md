@@ -18,15 +18,15 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 
 #### 2) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
-##### [Titanic Data](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression/Titanic/titanic_script.r)
+##### [Titanic Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Titanic/Titanic_Script.R)
 - Worked on Titanic data frame to predict survival or non survival of people on titanic
 - Used mean to fill missing values
 - Created dummy variables for categorical variables
 - Data File: train.csv, test.csv
 
-#### 3) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Decision%20Trees)
+#### 3) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees)
 
-##### [Kyphosis Data]https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Decision%20Trees/Kyphosis.r)
+##### [Kyphosis Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees/Kyphosis.R)
 - Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
 - Data File: kyphosis.csv
 
