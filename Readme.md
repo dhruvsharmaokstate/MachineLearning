@@ -4,7 +4,7 @@ This project contains various Machine Learning algorithms implemented using Pyth
 
 ## Overview
 
-Each folder containg .ipynb file. Some of the dataset used were imported from library and some are uploaded in the folders as .csv file.
+Each folder contains either a .ipynb or a .r file. Some of the datasets used were imported from inbuilt libraries and some are uploaded in the folders as .csv file.
 
 ### Machine Learning Algorithms:
 
