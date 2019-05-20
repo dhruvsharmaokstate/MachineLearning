@@ -1,6 +1,6 @@
 # Machine Learning Code Using R and Python
 
-This project contains various Machine Learning algorithms implemented using python 3.0 compiled on jupyter notebook. 
+This project contains various Machine Learning algorithms implemented using Python 3.0 compiled on Jupyter notebook and Spyder, and it also includes codes implemented using R and compiled on RStudio. 
 
 ## Overview
 
