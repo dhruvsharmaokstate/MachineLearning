@@ -18,7 +18,7 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 
 #### 2) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
-##### [Titanic Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Titanic/Titanic_Script.R)
+##### [Titanic](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Titanic/Titanic_Script.R)
 - Worked on Titanic data frame to predict survival or non survival of people on titanic
 - Used mean to fill missing values
 - Created dummy variables for categorical variables
