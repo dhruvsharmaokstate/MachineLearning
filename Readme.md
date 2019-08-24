@@ -8,6 +8,7 @@ Each folder contains either a .ipynb or a .r file. Some of the datasets used wer
 
 ### Machine Learning Algorithms:
 
+#### Regression
 #### 1) [Linear Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
 Project description
@@ -25,8 +26,8 @@ GRE Score, TOEFL Score, CGPA, University Rating, SOP, LOR, Research
 - Worked on Wine quality data to assess quality of wine using various factors such as:
 Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Data File: wine-quality.csv
-
-#### 3) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
+#### Classification
+#### 1) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
 ##### [Titanic](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Titanic/Titanic_Script.R)
 - Worked on Titanic data frame to predict survival or non survival of people on titanic
@@ -34,7 +35,7 @@ Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Created dummy variables for categorical variables
 - Data File: train.csv, test.csv
 
-#### 4) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees)
+#### 2) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees)
 
 ##### [Kyphosis Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees/Kyphosis.R)
 - Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
