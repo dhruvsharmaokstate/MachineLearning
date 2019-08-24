@@ -18,9 +18,15 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 #####  [Graduate Admissions](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb)
 - Worked on USA Graduate Admissions data to predict chance of admissions to universities using various factors such as:
 GRE Score, TOEFL Score, CGPA, University Rating, SOP, LOR, Research
-- Data File: graduate-admissions.csv, 
+- Data File: graduate-admissions.csv
+#### 2) [Support Vector Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
+#####  [Wine Quality Assessment]
+(https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Support%20Vector/Support%20Vector%20Regression.ipynb)https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Support%20Vector/Support%20Vector%20Regression.ipynb
+- Worked on Wine quality data to assess quality of wine using various factors such as:
+Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
+- Data File: wine-quality.csv
 
-#### 2) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
+#### 3) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
 ##### [Titanic](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Titanic/Titanic_Script.R)
 - Worked on Titanic data frame to predict survival or non survival of people on titanic
@@ -28,7 +34,7 @@ GRE Score, TOEFL Score, CGPA, University Rating, SOP, LOR, Research
 - Created dummy variables for categorical variables
 - Data File: train.csv, test.csv
 
-#### 3) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees)
+#### 4) [Decision Trees & Random Forest](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees)
 
 ##### [Kyphosis Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees/Kyphosis.R)
 - Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
