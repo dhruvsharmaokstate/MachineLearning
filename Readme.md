@@ -15,6 +15,10 @@ Project description
 - Worked on USA Housing data to predict price of house using various factors such as:
 Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Number of Bedrooms & Area Population 
 - Data File: train.csv, test.csv
+#####  [Graduate Admissions](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb)
+- Worked on USA Graduate Admissions data to predict chance of admissions to universities using various factors such as:
+GRE Score, TOEFL Score, CGPA, University Rating, SOP, LOR, Research
+- Data File: graduate-admissions.csv, 
 
 #### 2) [Logistic Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
 
