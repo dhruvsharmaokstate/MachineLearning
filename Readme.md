@@ -21,8 +21,7 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 GRE Score, TOEFL Score, CGPA, University Rating, SOP, LOR, Research
 - Data File: graduate-admissions.csv
 #### 2) [Support Vector Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
-#####  [Wine Quality Assessment]
-(https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Support%20Vector/Support%20Vector%20Regression.ipynb)https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Support%20Vector/Support%20Vector%20Regression.ipynb
+#####  [Wine Quality Assessment](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/Support%20Vector/Support%20Vector%20Regression.ipynb)
 - Worked on Wine quality data to assess quality of wine using various factors such as:
 Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Data File: wine-quality.csv
