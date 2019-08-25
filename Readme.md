@@ -10,8 +10,6 @@ Each folder contains either a .ipynb or a .r file. Some of the datasets used wer
 
 #### Regression
 #### 1) [Linear Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
-
-Project description
 #####  [Housing Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Regression/House%20Prices/Houses%20Prices.ipynb)
 - Worked on USA Housing data to predict price of house using various factors such as:
 Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Number of Bedrooms & Area Population 
