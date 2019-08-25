@@ -39,6 +39,9 @@ Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 ##### [Kyphosis Data](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/Decision%20Trees/Kyphosis.R)
 - Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
 - Data File: kyphosis.csv
+#### [Lending Club](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Decision%20Trees/Lending%20Club)
+- Worked on Lending club data to predict if a borrower pays the money back to investor or not, using decision tree and random forest classifier
+- Data File: loan_data.csv
 
 ### Prerequisites
 - Python 3.0
