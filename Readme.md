@@ -6,7 +6,7 @@ This project contains various Machine Learning algorithms learnt in Machine Lear
 
 Each folder contains either a .ipynb or a .r file. Some of the datasets used were imported from inbuilt libraries and some are uploaded in the folders as .csv file.
 
-### Machine Learning Algorithms:
+### Machine Learning Case Studies:
 
 #### Regression
 #### 1) [Linear Regression](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Regression)
