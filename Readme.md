@@ -1,6 +1,6 @@
 # Machine Learning Case Studies Using R and Python
 
-This project contains various Machine Learning algorithms learnt in Machine Learning A-Z course by Kirill Emeneko and Hadelin de Ponteves on Udemy implemented using Python 3.0 compiled on Jupyter notebook and Spyder, and it also includes codes implemented using R and compiled on RStudio. 
+This project contains various Machine Learning algorithms learnt in Machine Learning A-Z course by Kirill Eremenko and Hadelin de Ponteves on Udemy implemented using Python 3.0 compiled on Jupyter notebook and Spyder, and it also includes codes implemented using R and compiled on RStudio. 
 
 ## Overview
 
