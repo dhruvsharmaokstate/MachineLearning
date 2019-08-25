@@ -48,6 +48,8 @@ Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Data File: loan_data.csv
 
 #### 3) [K-Nearest Neighbors](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/K%20Nearest%20Neighbors)
+#### [Adult Income](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors.ipynb)
+
 - Worked on predicting a person's annual income by using various factors such as education level, age, gender, occupation etc
 - Data File: adult.csv
 
