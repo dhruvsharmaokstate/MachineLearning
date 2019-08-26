@@ -53,6 +53,11 @@ Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Worked on predicting a person's annual income by using various factors such as education level, age, gender, occupation etc
 - Data File: adult.csv
 
+#### 4) [Support Vector Classifier](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Support%20Vector%20Classifier)
+#### [Iris Dataset](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Support%20Vector%20Classifier)
+
+- Worked on predicting the classes of various Iris flowers by using various factors such as sepal and petal characteristics etc
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
