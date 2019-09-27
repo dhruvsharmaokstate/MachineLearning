@@ -53,6 +53,12 @@ Acidity, Citric Acid content, Sulfur Dioxide content, Density, pH
 - Worked on predicting a person's annual income by using various factors such as education level, age, gender, occupation etc
 - Data File: adult.csv
 
+#### 4) [K-Means](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/K-Means)
+#### [Credit Cards](https://github.com/dhruvsharmaokstate/MachineLearning/blob/master/K-Means/Credit%20Card.ipynb)
+
+- Worked on clustering customers by their credit card balances and purchases and other factors such as credit line, cash advances etc.
+- Data File: CC GENERAL.csv
+
 #### 4) [Support Vector Classifier](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Support%20Vector%20Classifier)
 #### [Iris Dataset](https://github.com/dhruvsharmaokstate/MachineLearning/tree/master/Support%20Vector%20Classifier)
 
